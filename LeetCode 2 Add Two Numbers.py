@@ -1,3 +1,10 @@
+"""
+Author: Isaac Asante
+YouTube tutorials: https://www.youtube.com/@nextrie
+Website: https://isaacasante.com/
+"""
+
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):

@@ -1,3 +1,9 @@
+"""
+Author: Isaac Asante
+YouTube tutorials: https://www.youtube.com/@nextrie
+Website: https://isaacasante.com/
+"""
+
 from collections import defaultdict
 
 
